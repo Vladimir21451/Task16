@@ -1,0 +1,19 @@
+body{
+    width: 90%;
+    background-color: lightcyan;
+}
+table{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid grey;
+    background-color: white;
+    
+}
+td{
+    border: 1px solid grey;
+    height: 30px; 
+}
+th{
+    border: 1px solid grey;
+}
